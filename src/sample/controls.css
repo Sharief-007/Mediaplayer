@@ -1,0 +1,11 @@
+#position ,#time{
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-weight: 900;
+    -fx-color : white;
+}
+#stackpane {
+    -fx-background-color: black;
+}
+#hbox1 {
+    -fx-background-color: transparent;
+}
